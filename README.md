@@ -1,5 +1,3 @@
-# Awesome-Autonomous-Customer-Service-Agents
-
 # Awesome-Autonomous-Customer-Service-Agents 🤖 🎧 💬 ⚡
 
 <p align="center">
