@@ -1,120 +1,61 @@
 # Awesome-Autonomous-Customer-Service-Agents
 
-# Awesome-Autonomous-Customer-Service-Agents 🤖 🎧
-
-
+# Awesome-Autonomous-Customer-Service-Agents 🤖 🎧 💬 ⚡
 
 <p align="center">
-
   <img src="assets/banner.svg" alt="Awesome Autonomous Customer Service Agents Banner" width="100%">
-
 </p>
-
-
 
 <p align="center">
-
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
-
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-
-  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Customer-Service-Agents"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Autonomous-Customer-Service-Agents?style=social" alt="GitHub_Stars"/></a>
-
-  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Customer-Service-Agents/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Autonomous-Customer-Service-Agents?style=social" alt="GitHub Forks"/></a>
-
+  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Customer-Service-Agents"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Autonomous-Customer-Service-Agents?style=social&color=white" alt="GitHub_Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Customer-Service-Agents/fork"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Autonomous-Customer-Service-Agents?style=social&color=white" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Autonomous-Customer-Service-Agents/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Autonomous-Customer-Service-Agents?color=blue" alt="License"/></a>
-
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
-
 </p>
-
-
 
 ---
 
-
-
-## 🌟 Top Autonomous Customer Service Agents Ecosystem
-
-
+## 🌟 Top Autonomous Customer Service Agents Ecosystem 🚀
 
 **Curated List of Commercial AI Customer Service Platforms & Open-Source Support Agent Frameworks**  
-
-*Focused on Autonomous Resolution, AI Agents, Outcome-Based Pricing, Multi-Channel Support, Agent Copilots & Self-Hosted Support Automation*
-
-
+*Focused on Autonomous Resolution, AI Agents, Outcome-Based Pricing, Multi-Channel Support, Voice & Chat AI Copilots, and Self-Hosted Support Automation.*
 
 **Last updated: October 2026** 📅
 
+---
 
+### 📌 Overview & SEO Summary 🔍
+
+Welcome to the definitive, search-optimized guide to **autonomous customer service agents**, **AI support agent frameworks**, and **intelligent contact center automation**. Whether you are evaluating enterprise commercial SaaS platforms (such as *Salesforce Agentforce*, *Intercom Fin*, and *Sierra AI*) or deploying privacy-first, self-hostable open-source customer support software (such as *Chatwoot*, *Dify*, *Flowise*, *Papercups*, and *LiveKit Agents*), this directory provides real-time market sizes, verified outcome-based pricing models, free trial allowances, and GitHub community metrics.
+
+**Key Technical & Architectural Themes:**
+- 🤖 **Autonomous AI Resolutions:** Shifting from deflection-oriented scripted bots to reasoning agents with function-calling, CRM tool integration, and knowledge retrieval.
+- 🎯 **Outcome-Based Pricing:** Transitioning from traditional per-seat licensing to resolution-based metrics ($0.99/resolution or Flex Credits).
+- 🎙️ **Multimodal Voice & Real-Time Audio:** Ultra-low latency voice agents capable of fluid interruption handling and live telephony dispatch.
+- 🔓 **Self-Hosted Data Sovereignty:** On-premises and VPC deployable LLMOps stacks keeping PII within enterprise compliance boundaries.
 
 ---
 
+## 📑 Table of Contents 📖
 
-
-### 📌 Overview & SEO Summary
-
-Welcome to the ultimate curated directory of **autonomous customer service agents**, **open-source support automation frameworks**, and **AI-powered contact center platforms**. Whether you are looking for enterprise-grade commercial solutions (such as *Salesforce Agentforce Service*, *Intercom Fin*, and *Sierra AI*), or self-hostable open-source alternatives (like *Klio Support Agent*, *Chatwoot*, and *Dify*), this list covers category leaders, outcome-based pricing, and privacy-respecting customer service automation.
-
-
-
-**Key Market Context:**
-
-- **ISG's 2026 AI Self-Service Buyers Guide** ranked **NiCE, Verint, and Salesforce as overall Leaders**, with **Content Guru, Dialpad, Five9, Genesys, Microsoft, RingCentral, Salesforce, Sprinklr, Talkdesk, Verint, Zendesk, and Zoom rated Exemplary** .
-
-- **Salesforce's Help Worker Solution** uses **purely outcome-based pricing** — **400 Flex Credits per resolution**, charged only when the worker successfully resolves a query or request (not discarded sessions, negative feedback, or pre-feedback escalations) .
-
-- **Intercom Fin** charges **$0.99 per outcome** with **no seat costs, no setup fees, and no platform fees** — an outcome is counted when a customer confirms resolution, doesn't ask for more help, or Fin completes a workflow .
-
-- **Sierra AI** publishes **no pricing page, no rate card, and no per-outcome rate** — every commercial term including the definition of "resolved" is negotiated directly .
-
-- **Decagon** requires a **$50,000/year platform fee** before any usage costs, with **per-conversation or per-resolution pricing** estimated at **~$0.99 per conversation** .
-
-- **Parloa** uses **consumption-based pricing** — **per minute for voice and per interaction for chat**, with rates reflecting the complexity of each use case .
-
-- **Ada CX** starts at **$33,000/year for 60,000 conversations** (AWS Marketplace), with implementation expenses ranging from **$15,000 to $100,000+** .
-
-- **Forethought** blends **platform access fees with outcome-based pricing**, with implementation costs of **$10,000–$50,000+** and annual price escalators of **3–7%** .
-
-- **Freshservice Freddy AI** offers **500 free AI sessions** with Growth, Pro, and Enterprise plans, then charges **$49 per 100 sessions** — a session is a **24-hour window** for chat or a **72-hour window** for email .
-
-
-
----
-
-
-
-## 📑 Table of Contents
-
-- [🏢 SaaS & Commercial Platforms](#-saas--commercial-platforms)
-
+- [🏢 SaaS / Commercial Platforms](#-saas--commercial-platforms)
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
-
 - [🛠️ How to Contribute](#%EF%B8%8F-how-to-contribute)
-
 - [📊 Star History](#-star-history)
-
 - [🤝 Support & Sponsorship](#-support--sponsorship)
-
 - [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
-
-
 ---
 
+## 🏢 SaaS / Commercial Platforms 💼
 
-
-## 🏢 SaaS / Commercial Platforms
-
-
-
-The autonomous customer service agent market spans **CRM-native platforms** (Salesforce Agentforce Service) that integrate **deeply with Service Cloud and CRM data**, **AI-native support platforms** (Intercom Fin, Sierra AI, Decagon) that focus on **autonomous resolution with outcome-based pricing**, and **enterprise contact-center AI** (Parloa, Cognigy, Cresta) that offer **voice and chat automation with consumption-based billing**. **Salesforce** was rated a **Leader in ISG's 2026 AI Self-Service Buyers Guide** . **Intercom Fin** charges **$0.99 per outcome** . **Decagon** requires a **$50,000/year platform fee** . **Parloa** charges **per minute for voice, per interaction for chat** .
-
-
+The autonomous customer service agent market spans **CRM-native platforms** (Salesforce Agentforce Service) that integrate **deeply with Service Cloud and CRM data**, **AI-native support platforms** (Intercom Fin, Sierra AI, Decagon) that focus on **autonomous resolution with outcome-based pricing**, and **enterprise contact-center AI** (Parloa, Cognigy, Cresta) that offer **voice and chat automation with consumption-based billing**.
 
 > 💡 **Market Size & Structure:** The global AI customer service market is estimated at **~$15.12 Billion in 2026** (growing at a **23–27% CAGR** toward **$47B–$83B+ by 2030–2033**). The sector is **moderately to highly fragmented** rather than concentrated or winner-take-all, characterized by intense competition between legacy CRM incumbents (Salesforce, NICE, Zendesk), fast-scaling autonomous agent unicorns (Sierra, Decagon, Parloa), and specialized contact center platforms.
 
-| SaaS / Commercial Platform | Company / Owner | Valuation / Market Cap | Pricing (Starting Tier / Basis) | Free Tier & Free Trial Limits | Description |
+| SaaS / Commercial Platform | Company / Owner | Valuation / Market Cap | Starting Pricing | Free Tier / Free Trial Limits | Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Salesforce Agentforce Service](https://www.salesforce.com/service/)** ☁️ | Salesforce (NYSE: CRM) | ~$250 Billion | **400 Flex Credits per resolution** (~$2.00/res; $500 per 100k Flex Credits) or $125/user/month (Enterprise Service Cloud baseline) | **Salesforce Foundations: 200,000 Flex Credits included free**; 30-day trial with standard sandbox limits (no credit card required) | **CRM-native autonomous service** — Help Worker Solution uses outcome-based pricing: 400 Flex Credits only when the worker successfully resolves a query. Voice minutes billed per full minute; chat capped at 2 hours per resolution. ISG 2026 AI Self-Service Leader. |
 | **[Sierra AI](https://sierra.ai/)** 🏔️ | Sierra | ~$15.8 Billion | **~$150,000/year platform fee** + **~$1.50 per resolved outcome** (blended conversation billing for triage) | **No free tier or public self-serve trial**; sales-guided POC demo on enterprise historical data | **Enterprise conversational AI** — Charges per resolved interaction. Sierra negotiates definitions of "resolved" directly with enterprise clients. Implementation: 3–7 months. |
@@ -127,148 +68,87 @@ The autonomous customer service agent market spans **CRM-native platforms** (Sal
 | **[Ada](https://www.ada.cx/)** 🟢 | Ada | ~$1.2 Billion | **$33,000/year for 60,000 conversations** (AWS Marketplace starting tier) | **No free tier or self-serve trial**; sales discovery assessment and custom scoping | **Enterprise CX automation** — Conversation-based or resolution-based pricing. Enterprise platform packages frequently scale to $100,000–$300,000+ annually. |
 | **[Forethought](https://forethought.ai/)** 🧠 | Zendesk (Acquired) | ~$117M (Prior total funding) | **$30,000–$40,000/year starting platform fee** (median spend $60,000–$75,000/year) + outcome resolution fees | **No free tier or self-serve trial**; formal "Proof of Value" (POV) pilot using historical ticket archives (min 20k tickets) | **AI support platform** — Solve, Assist, Triage, and Voice products. Acquired by Zendesk in 2026 and offered as Forethought AI Agents by Zendesk. |
 
-
-
 ---
 
-
-
-## 🔓 Open-Source GitHub Projects
-
-
+## 🔓 Open-Source GitHub Projects 💻
 
 *Sorted by GitHub_Stars_Count (Descending)* 🌟
 
+- **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers) 🔄  
+  **Workflow automation with AI agent capabilities**, Sustainable Use License. **200K+ GitHub stars** — **the open-source action backbone for autonomous support bots** . Integrates with 400+ SaaS platforms, vector databases, CRM tools, and LLMs . Build multi-step customer escalation workflows, automate refund processing, and orchestrate intelligent helpdesk ticket triage with native AI nodes . ⚙️
 
+- **[Dify](https://github.com/langgenius/dify)** [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) 🎨  
+  **LLMOps platform with visual agentic workflows & RAG pipelines**, Apache-2.0 licensed. **155K+ GitHub stars** — **the most complete open-source LLM application development platform for customer support automation** . Visual drag-and-drop workflow designer, out-of-the-box knowledge base retrieval-augmented generation (RAG), tool execution nodes, and support for 100+ LLMs . Deploy web chat widgets or embed APIs directly into web and mobile support centers . 🚀
 
-- **[Klio Customer Support Agent](https://github.com/klio-tech/customer_support_agent)** [![Stars](https://img.shields.io/github/stars/klio-tech/customer_support_agent?style=social&color=white)](https://github.com/klio-tech/customer_support_agent/stargazers)  
+- **[Flowise](https://github.com/FlowiseAI/Flowise)** [![Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers) 🌊  
+  **Drag & drop UI to build customized LLM support flows & autonomous agents**, MIT/Banded licensed. **55K+ GitHub stars** — visually orchestrate LangChain and LlamaIndex agents, memory components, and tool calling . Easily create interactive customer service chatbots with custom knowledge base embeddings, API connectors, and instant embeddable chat widgets . 🧩
 
-  **Open-source AI-powered customer support agent**, open-source. **Embeddable chat widget with single script tag** — Shadow DOM isolation, session persistence via localStorage, Markdown rendering, streaming responses, and identity passthrough . **Knowledge base with URL crawling (sitemap-aware) and document upload (PDF, TXT, CSV, JSON)** — documents chunked, embedded into 1536-dimension vectors, stored in PostgreSQL via pgvector, and retrieved via semantic similarity search . **Agent configuration via `agent.config.yaml`**: persona (name, system prompt, tone), model (300+ via OpenRouter, temperature), escalation rules (confidence threshold, keywords like "speak to human"), and widget branding (primary color, welcome message) . **Per-org agent config** allows each organization to customize prompts, model settings, escalation rules, and widget branding . **Webhooks for escalation, completion, and low-confidence events** . **The most complete open-source customer support agent with embeddable widget**. 🛠️
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) 💬  
+  **Open-source omnichannel customer engagement & live chat suite**, MIT licensed. **37K+ GitHub stars** — **the primary open-source alternative to Intercom, Zendesk, and Drift** . Connects website live chat, email, WhatsApp, Facebook Messenger, Instagram, SMS, and Telegram into a unified inbox . Features AI agent copilot integrations, custom attributes, automated routing, and native webhook triggers for self-hosted support teams . 🎧
 
+- **[Khoj](https://github.com/khoj-ai/khoj)** [![Stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=social&color=white)](https://github.com/khoj-ai/khoj/stargazers) 🧠  
+  **Self-hostable autonomous AI agent & personal second brain**, AGPL-3.0 licensed. **37K+ GitHub stars** — autonomous knowledge indexing across markdown, PDF, GitHub repositories, and internal documentation . Supports scheduled automations, automated web and document research, and offline/online LLM inference across local models (Ollama, Llama) and frontier APIs for automated Q&A support . 📚
 
+- **[Rasa](https://github.com/RasaHQ/rasa)** [![Stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers) 🏛️  
+  **Enterprise-grade conversational AI framework**, Apache-2.0 licensed (core). **21K+ GitHub stars & 25M+ downloads** — the standard for mission-critical, enterprise-grade conversational assistants with strict data residency requirements . Combines CALM (Conversational AI with Language Models) and dialogue flows for reliable business logic execution without hallucinations . 🛡️
 
-- **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+- **[Botpress](https://github.com/botpress/botpress)** [![Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers) 🤖  
+  **Developer platform for building autonomous bots & generative AI assistants**, MIT licensed. **14K+ GitHub stars** — visual conversation flow builder, natural language understanding (NLU), generative action orchestration, and omnichannel deployment across Slack, Teams, WhatsApp, and websites . 💬
 
-  **Open-source customer engagement suite**, MIT licensed. **25K+ GitHub stars** — **the most widely deployed open-source support desk** . **Omnichannel: website, email, WhatsApp, Facebook, Instagram, SMS, and more** . **Custom attributes for segmentation and automation triggers** . **Self-hosted deployment for full data control** . **The foundation for customer communication during support automation**. 💬
+- **[LiveKit Agents](https://github.com/livekit/agents)** [![Stars](https://img.shields.io/github/stars/livekit/agents?style=social&color=white)](https://github.com/livekit/agents/stargazers) 🎙️  
+  **Real-time voice and multimodal AI agent framework**, Apache-2.0 licensed. **14K+ GitHub stars** — **the leading open-source engine for autonomous phone & voice support copilots** . Built on WebRTC with end-to-end voice pipelines (speech-to-text, LLM inference, text-to-speech), millisecond-level interruption handling, telephony SIP trunk integration, and real-time audio streaming . 📞
 
+- **[Papercups](https://github.com/papercups-io/papercups)** [![Stars](https://img.shields.io/github/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers) ☕  
+  **Open-source live customer support chat widget & inbox**, MIT licensed. **6K+ GitHub stars** — privacy-focused customer chat application built in Elixir and React . Features embeddable JavaScript chat widgets, Slack sync, email forwarding, and customizable webhook callbacks for attaching autonomous support bots . 📬
 
+- **[Zammad](https://github.com/zammad/zammad)** [![Stars](https://img.shields.io/github/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers) 🎫  
+  **Open-source ticketing & customer support system**, AGPL-3.0 licensed. **5.9K+ GitHub stars** — **the most robust open-source helpdesk ticket management system** . Multi-channel inbox (email, telephone, chat, social media), knowledge base, SLA escalation rules, audit logs, and REST APIs for seamless AI copilot hooks and automated agentic triage . 📋
 
-- **[Dify](https://github.com/langgenius/dify)** [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
+- **[Zaturn](https://github.com/kdqed/zaturn)** [![Stars](https://img.shields.io/github/kdqed/zaturn?style=social&color=white)](https://github.com/kdqed/zaturn/stargazers) 📊  
+  **AI Co-Pilot for data analytics & customer insights**, open-source. **Chat with customer support databases — no SQL, no Python** . Connects directly to PostgreSQL, SQLite, DuckDB, MySQL, ClickHouse, SQL Server, CSV, and Parquet to analyze ticket trends, CSAT drops, and resolution times with automatic visualization . 📈
 
-  **LLMOps platform with agentic workflows**, Apache-2.0 licensed. **157K+ GitHub stars** — **visual drag-and-drop workflow builder** . **Built-in RAG pipelines and agent nodes** . **100+ LLM providers** . **Self-hosted or Dify Cloud** . **The most complete open-source LLM app builder for support automation**. 🎨
-
-
-
-- **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
-
-  **Workflow automation with AI capabilities**, Sustainable Use License. **176K+ GitHub stars** — **the most popular open-source automation platform** . **AI Workflow Builder with plain English prompts** . **400+ integrations** . **Self-hosted with unlimited executions** . **The "action layer" for AI support agents**. 🔄
-
-
-
-- **[Zammad](https://github.com/zammad/zammad)** [![Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
-
-  **Open-source helpdesk and customer support system**, AGPL-3.0 licensed. **The most feature-complete open-source helpdesk** — ticket management, knowledge base, SLA management, and multi-channel support . **REST API and integrations** . **Self-hosted or Zammad Cloud** . 🎫
-
-
-
-- **[Rasa](https://github.com/RasaHQ/rasa)** [![Stars](https://img.shields.io/github/stars/RasaHQ/rasa?style=social&color=white)](https://github.com/RasaHQ/rasa/stargazers)  
-
-  **The leading open-source conversational AI framework**, Apache-2.0 licensed (core). **25M+ downloads** — **enterprise-grade on-premises deployment** . **Flows for business logic** . **CALM for LLM-powered assistants** . **Full data sovereignty** . 🏛️
-
-
-
-- **[Botpress](https://github.com/botpress/botpress)** [![Stars](https://img.shields.io/github/stars/botpress/botpress?style=social&color=white)](https://github.com/botpress/botpress/stargazers)  
-
-  **Open-source platform for building AI-powered chatbots**, MIT licensed. **Visual flow builder with built-in NLU** . **Multi-channel deployment** (web, WhatsApp, Slack, Telegram) . **Self-hosted option** . 🎨
-
-
-
-- **[Zaturn](https://github.com/kdqed/zaturn)** [![Stars](https://img.shields.io/github/stars/kdqed/zaturn?style=social&color=white)](https://github.com/kdqed/zaturn/stargazers)  
-
-  **AI Co-Pilot for data analytics and business insights**, open-source. **Just chat with your data — no SQL, no Python** . **Connects to PostgreSQL, SQLite, DuckDB, MySQL, ClickHouse, SQL Server, CSV, and Parquet** . **Generates visualizations** . **Usable as MCP or web interface** . 🤖
-
-
+- **[Klio Customer Support Agent](https://github.com/klio-tech/customer_support_agent)** [![Stars](https://img.shields.io/github/stars/klio-tech/customer_support_agent?style=social&color=white)](https://github.com/klio-tech/customer_support_agent/stargazers) 🛠️  
+  **Turnkey open-source AI customer support agent with embeddable widget**, open-source. **Shadow DOM isolated chat widget with single script tag embedding** . Multi-tenant configuration (`agent.config.yaml`), automated URL crawling, vector search with PostgreSQL & pgvector, 300+ models via OpenRouter, and customizable human escalation webhooks . 🎯
 
 ---
 
+## 🛠️ How to Contribute 🤝
 
+Contributions are enthusiastically welcomed! Follow these steps to submit new autonomous customer service platforms or open-source support automation software:
 
-## 🛠️ How to Contribute
-
-
-
-Contributions are welcome! Follow these steps to submit new autonomous customer service platforms or open-source support automation software:
-
-
-
-1. 🍴 **Fork** the repository.
-
-2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-
-3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, and brief description.
-
+1. 🍴 **Fork** this repository.
+2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure, emojis, and styling.
+3. 🔗 Include project title, official website/GitHub link, exact star badge with `style=social&color=white` linking to stargazers, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
-
-
 ---
 
-
-
-## 📊 Star History
-
-
+## 📊 Star History ⭐
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Autonomous-Customer-Service-Agents&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Autonomous-Customer-Service-Agents&type=date&legend=top-left)
 
-
-
 ---
 
-
-
-## 🤝 Support & Sponsorship
-
-
+## 🤝 Support & Sponsorship 💖
 
 If you find this autonomous customer service agents repository useful, please consider supporting the project:
 
-
-
-- ⭐ **Star** this repository to increase visibility!
-
+- ⭐ **Star** this repository to increase visibility and help other builders discover it!
 - 🔀 **Fork** and share with fellow support leaders, CX professionals, and open-source advocates.
-
-- ☕ **Sponsor & Buy Me a Coffee**: Support ongoing open-source curation via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
-
-
+- ☕ **Sponsor & Buy Me a Coffee**: Support ongoing open-source curation and research via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
-
-
-## ⚠️ Disclaimer
-
-
+## ⚠️ Disclaimer 📋
 
 - This is a **community-curated** list — not exhaustive and not an endorsement. ℹ️
-
-- **ISG's 2026 AI Self-Service Buyers Guide** ranked **NiCE, Verint, and Salesforce as overall Leaders**, with **Content Guru, Dialpad, Five9, Genesys, Microsoft, RingCentral, Salesforce, Sprinklr, Talkdesk, Verint, Zendesk, and Zoom rated Exemplary** . **Cresta and Sierra were rated as providers of Merit** .
-
-- **Salesforce's Help Worker Solution uses purely outcome-based pricing** — **400 Flex Credits per resolution**, charged only when the worker successfully resolves a query or request . **Salesforce was also rated a Leader in ISG's 2026 AI Self-Service Buyers Guide** .
-
-- **Intercom Fin charges $0.99 per outcome** with **no seat costs, no setup fees, and no platform fees** — and can be used with existing helpdesk (Salesforce, etc.) with **zero Intercom seats** . **Decagon requires a $50,000/year platform fee before any usage costs** . **Sierra AI publishes no pricing at all** . **Ada starts at $33,000/year for 60,000 conversations** .
-
-- **Open-source support automation tools are not turnkey** — **Klio requires PostgreSQL with pgvector, Node.js, and an LLM provider API key** . **Chatwoot and Zammad require deployment and maintenance** . **Dify requires PostgreSQL, Redis, and a vector database** . **Always validate automation accuracy and escalation logic with a proof-of-concept** before production deployment. 🤖
-
-
+- **ISG's 2026 AI Self-Service Buyers Guide** ranked **NICE, Verint, and Salesforce as overall Leaders**, with **Content Guru, Dialpad, Five9, Genesys, Microsoft, RingCentral, Salesforce, Sprinklr, Talkdesk, Verint, Zendesk, and Zoom rated Exemplary**. **Cresta and Sierra were rated as providers of Merit**.
+- **Salesforce's Help Worker Solution uses purely outcome-based pricing** — **400 Flex Credits per resolution**, charged only when the worker successfully resolves a query or request.
+- **Intercom Fin charges $0.99 per outcome** with **no seat costs, no setup fees, and no platform fees** — and can be used with existing helpdesks (Salesforce, Zendesk, etc.) with **zero Intercom seats**.
+- **Open-source support automation tools are not turnkey** — self-hosted frameworks require PostgreSQL, vector databases, API keys, and maintenance. Always validate automation accuracy, escalation guards, and prompt security with a proof-of-concept before production deployment. 🤖
 
 ---
 
-
-
 <p align="center">
-
-  <b>Made with ❤️ for support leaders, CX professionals, and open-source customer service advocates.</b>
-
+  <b>Made with ❤️ for support leaders, CX professionals, and open-source customer service advocates. 🚀🎧🤖</b>
 </p>
